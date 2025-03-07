@@ -2,6 +2,8 @@ h1{
   color: rgb(75,0,130);
   font-family: "Times New Roman", Georgia, Serif;
   line-height: 1.3em;
+  text-align: center;
+
 }
 body{
 	border: 20px pink;
